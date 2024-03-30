@@ -158,4 +158,4 @@ I am continuously working to enhance the capabilities of our Telegram News Bot. 
 <img src="screenshots/IMG_2920.PNG" alt="Settings (Change Parsing Time)" width="40%">
 
 **Figure 16: Setting change restarts parser schedule**  
-<img src="screenshots/IMG_2921.PNG" alt="Setting change restarts parser schedule" width="60%">
+<img src="screenshots/IMG_2921.PNG" alt="Setting change restarts parser schedule" width="40%">
