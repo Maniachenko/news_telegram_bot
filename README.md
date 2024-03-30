@@ -84,3 +84,58 @@ While reading:
 - **More Info Button**: View the full article.
 
 ## 4. Screenshots
+
+### Bot Interaction Screenshots
+
+**Figure 1: Bot start**  
+![Bot start](screenshots/IMG_2906.PNG)
+
+**Figure 2: Choose Language**  
+![Choose Language](screenshots/IMG_2907.PNG)
+
+**Figure 3: Choose age category**  
+![Choose age category](screenshots/IMG_2908.PNG)
+
+**Figure 4: Choose Parser work schedule**  
+![Choose Parser work schedule](screenshots/IMG_2909.PNG)
+
+**Figure 5: Choose source (topic)**  
+![Choose source (topic)](screenshots/IMG_2910.PNG)
+
+**Figure 6: Parsing process**  
+![Parsing process](screenshots/IMG_2911.PNG)
+
+**Figure 7: Fresh News message**  
+![Fresh News message](screenshots/IMG_2912.PNG)
+
+**Figure 8: Read Articles**  
+![Read Articles](screenshots/IMG_2913.PNG)
+
+### News Manipulation and Article Navigation
+
+**Figure 9: News manipulation menu**  
+![News manipulation menu](screenshots/IMG_2914.PNG)
+
+**Figure 10: Next Article**  
+![Next Article](screenshots/IMG_2915.PNG)
+
+**Figure 11: More Info**  
+![More Info](screenshots/IMG_2916.PNG)
+
+**Figure 12: More Info (message splits if >4096 tokens)**  
+![More Info (message splits if >4096 tokens)](screenshots/IMG_2917.PNG)
+
+### Settings and Configuration
+
+**Figure 13: Clear News Feed**  
+![Clear News Feed](screenshots/IMG_2918.PNG)
+
+**Figure 14: Settings (Change Source)**  
+![Settings (Change Source)](screenshots/IMG_2919.PNG)
+
+**Figure 15: Settings (Change Parsing Time)**  
+![Settings (Change Parsing Time)](screenshots/IMG_2920.PNG)
+
+**Figure 16: Setting change restarts parser schedule**  
+![Setting change restarts parser schedule](screenshots/IMG_2921.PNG)
+
