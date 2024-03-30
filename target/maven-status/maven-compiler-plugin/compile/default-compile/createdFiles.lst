@@ -1,0 +1,7 @@
+edu/newsbot/package-info.class
+edu/newsbot/NewsBot.class
+edu/newsbot/DB.class
+edu/newsbot/Parser.class
+edu/newsbot/DatabaseConfig.class
+edu/newsbot/Main.class
+edu/newsbot/ParsingSendingScheduler.class

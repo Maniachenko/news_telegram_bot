@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.newsbot","l":"DatabaseConfig"},{"p":"edu.newsbot","l":"DB"},{"p":"edu.newsbot","l":"Main"},{"p":"edu.newsbot","l":"NewsBot"},{"p":"edu.newsbot","l":"Parser"},{"p":"edu.newsbot","l":"ParsingSendingScheduler"}];updateSearchResults();
