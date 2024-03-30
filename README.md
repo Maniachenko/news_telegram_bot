@@ -109,53 +109,53 @@ I am continuously working to enhance the capabilities of our Telegram News Bot. 
 ### Bot Interaction Screenshots
 
 **Figure 1: Bot start**  
-<img src="screenshots/IMG_2906.PNG" alt="Bot start" width="60%">
+<img src="screenshots/IMG_2906.PNG" alt="Bot start" width="40%">
 
 **Figure 2: Choose Language**  
-<img src="screenshots/IMG_2907.PNG" alt="Choose Language" width="60%">
+<img src="screenshots/IMG_2907.PNG" alt="Choose Language" width="40%">
 
 **Figure 3: Choose age category**  
-<img src="screenshots/IMG_2908.PNG" alt="Choose age category" width="60%">
+<img src="screenshots/IMG_2908.PNG" alt="Choose age category" width="40%">
 
 **Figure 4: Choose Parser work schedule**  
-<img src="screenshots/IMG_2909.PNG" alt="Choose Parser work schedule" width="60%">
+<img src="screenshots/IMG_2909.PNG" alt="Choose Parser work schedule" width="40%">
 
 **Figure 5: Choose source (topic)**  
-<img src="screenshots/IMG_2910.PNG" alt="Choose source (topic)" width="60%">
+<img src="screenshots/IMG_2910.PNG" alt="Choose source (topic)" width="40%">
 
 **Figure 6: Parsing process**  
-<img src="screenshots/IMG_2911.PNG" alt="Parsing process" width="60%">
+<img src="screenshots/IMG_2911.PNG" alt="Parsing process" width="40%">
 
 **Figure 7: Fresh News message**  
-<img src="screenshots/IMG_2912.PNG" alt="Fresh News message" width="60%">
+<img src="screenshots/IMG_2912.PNG" alt="Fresh News message" width="40%">
 
 **Figure 8: Read Articles**  
-<img src="screenshots/IMG_2913.PNG" alt="Read Articles" width="60%">
+<img src="screenshots/IMG_2913.PNG" alt="Read Articles" width="40%">
 
 ### News Manipulation and Article Navigation
 
 **Figure 9: News manipulation menu**  
-<img src="screenshots/IMG_2914.PNG" alt="News manipulation menu" width="60%">
+<img src="screenshots/IMG_2914.PNG" alt="News manipulation menu" width="40%">
 
 **Figure 10: Next Article**  
-<img src="screenshots/IMG_2915.PNG" alt="Next Article" width="60%">
+<img src="screenshots/IMG_2915.PNG" alt="Next Article" width="40%">
 
 **Figure 11: More Info**  
-<img src="screenshots/IMG_2916.PNG" alt="More Info" width="60%">
+<img src="screenshots/IMG_2916.PNG" alt="More Info" width="40%">
 
 **Figure 12: More Info (message splits if >4096 tokens)**  
-<img src="screenshots/IMG_2917.PNG" alt="More Info (message splits if >4096 tokens)" width="60%">
+<img src="screenshots/IMG_2917.PNG" alt="More Info (message splits if >4096 tokens)" width="40%">
 
 ### Settings and Configuration
 
 **Figure 13: Clear News Feed**  
-<img src="screenshots/IMG_2918.PNG" alt="Clear News Feed" width="60%">
+<img src="screenshots/IMG_2918.PNG" alt="Clear News Feed" width="40%">
 
 **Figure 14: Settings (Change Source)**  
-<img src="screenshots/IMG_2919.PNG" alt="Settings (Change Source)" width="60%">
+<img src="screenshots/IMG_2919.PNG" alt="Settings (Change Source)" width="40%">
 
 **Figure 15: Settings (Change Parsing Time)**  
-<img src="screenshots/IMG_2920.PNG" alt="Settings (Change Parsing Time)" width="60%">
+<img src="screenshots/IMG_2920.PNG" alt="Settings (Change Parsing Time)" width="40%">
 
 **Figure 16: Setting change restarts parser schedule**  
 <img src="screenshots/IMG_2921.PNG" alt="Setting change restarts parser schedule" width="60%">
